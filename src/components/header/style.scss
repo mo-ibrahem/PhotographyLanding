@@ -8,8 +8,9 @@
     .header-container{
         display: flex;
         
-        h1{
-            cursor: pointer;
+        a{
+            text-decoration: none;
+            color: rgb(21, 21, 21);
             margin: 0 20px;
             transition: opacity 0.35s ease-in-out;
             &:hover{

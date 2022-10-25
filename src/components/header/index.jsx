@@ -6,8 +6,8 @@ export default function Header(){
     return(
         <div className="overlay-nav">
             <div className="header-container">
-                <h1 >COLLAB</h1>
-                <h1 >STUDIO</h1>
+                <a href="https://skeptech.co.uk/" >COLLAB</a>
+                <a href="https://www.behance.net/ZiadHahmed">STUDIO</a>
             </div>
         </div>
     )
